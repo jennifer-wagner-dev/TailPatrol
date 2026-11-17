@@ -105,6 +105,8 @@ flowchart TD
 The frontend communicates with the Spring Boot backend through REST APIs.
 The backend handles business logic, authentication, matching, external data integration and data persistence.
 
+For more technical details, see the [Technical Architecture](docs/architecture.md).
+
 ## 👩‍💻 My Contribution
 
 My primary responsibility was the development and redesign of the Vue.js frontend.
