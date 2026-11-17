@@ -9,6 +9,20 @@ The goal of the application is to provide one central platform for reporting fou
 > **Note:** This repository is a portfolio case study.  
 > The original source code was developed collaboratively by a three-person team and is therefore not published here.
 
+## 📸 Application Preview
+
+![TailPatrol Homepage](screenshots/01-homepage.png)
+
+### Organisation Dashboard
+
+![Organisation Dashboard](screenshots/09-organisation-dashboard.png)
+
+### Capacity Management
+
+![Capacity Management](screenshots/14-capacities.png)
+
+[View all application screenshots →](screenshots/README.md)
+
 ## 🎯 Project Context
 
 - **Team size:** 3 developers
